@@ -13,6 +13,9 @@ def get_sellMeier(Lambda, Bs, Cs):
     return res
 
 def dndlamb(Lambda, Ns, Lambs):
-    grads = np.gradient(Ns, Lambs[1]-Lambs[0])
-    index = np.argmin(np.abs(Lambs-Lambda))
-    return grads[index]
+    res = []
+    for L in Lambda:
+        grads = np.gradient(Ns, Lambs[1]-Lambs[0])
+        index = np.argmin(np.abs(Lambs-L))
+        res.append(grads[index])
+    return res

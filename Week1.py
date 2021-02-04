@@ -23,7 +23,7 @@ if __name__ == "__main__":
     plt.xlabel("Lambda")
     plt.ylabel("n")
     plt.show()
-    print(Utilities.dndlamb(0.8, Ns, lambdas))
+    print(Utilities.dndlamb([0.8], Ns, lambdas))
 
 
 
