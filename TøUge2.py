@@ -1,6 +1,9 @@
 import numpy as np
 from numpy import pi
 import matplotlib.pyplot as plt
+from getGauss import *
+
+"Uge 2 og 3"
 c=3e8
 def opgave12g():
     #Not done
@@ -76,6 +79,7 @@ def opgave10():
     plt.xlabel('t[s]')
 
 
+
     #The same as before but now with fase
     t_phase=np.linspace(-2000*1e-15,2000*1e-15,1000)
     modes=5
@@ -96,7 +100,23 @@ def opgave10():
     plt.title('Composite Efield phaseshifted')
     plt.xlabel('t[s]')
 
+    print("time between pulses = " + str(2*L_laser/c))
+    print("pulse duration = " + str( ) )
 
     plt.show()
+
+def extra():
+    L=1 #m
+    tau=100*1e-15
+    print("modes: " + str(2*L/(c*tau)))
+    print("seperation time: " + str(2*L/c))
+    print("repetition rate: " + str(c/(2*L)))
+    print("period E-field: " +str(800*1e-9/c))
+
+def opgave13():
+    print("To hit the entirety of the rod? "
+          "To get the right effect from self focusing")
+
+
 if __name__=='__main__':
     opgave10()
