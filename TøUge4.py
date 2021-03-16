@@ -16,11 +16,12 @@ def opgave1():
     diameter=1 #mm
     #laser
     bandwidth=0.1*1e-9 #m
+    relband=bandwidth/wavelength
     divergence=1 #mrad
     #Brilliance= photons/second/[(mm^2 source area)*(mrad)**2*(0.001*bandwidth)]
     energyprphoton=2*pi*hbar*c/wavelength
     photonsprsecond=P/energyprphoton
-    Brilliance=photonsprsecond/(pi*(diameter/2)**2*divergence**2*(0.001*bandwidth))
+    Brilliance=photonsprsecond/(pi*(diameter/2)**2*divergence**2*(1e3*relband))
     print(Brilliance)
 def opgave2():
     print("Opgave 2:")
@@ -32,7 +33,7 @@ def opgave2():
     divergence=75*15*1e-6 #mrad
     # Brilliance= photons/second/[(mm^2 source area)*(mrad)**2*(0.001*bandwidth)]
     energyprphoton=1.5e4*1.602e-19
-    photonsprsecond=brilliance*area*divergence**2*(10*bandwidth)
+    photonsprsecond=brilliance*area*divergence*(1e3*bandwidth)
     #Det med bandwidth er fra facit, jeg forstår det ikke
     P=energyprphoton*photonsprsecond
     print(photonsprsecond,P)
@@ -56,12 +57,12 @@ def opgave3():
     print("E_kin: "+str(Ekin))
 def opgave4():
     print("Opgave 4: ")
-    E=3 #J
-    I=250*1e-3 #A
+    E=3 #GeV
+    I=0.250 #A
     L=0.5 #m
     B=1.4 #T
-    P=1.266*E**2*B**2*0.5*I*1e3 #W
-    print("Power in all angles: " + str(P))
+    P=1.266*E**2*B**2*0.5*I #kW
+    print("Power in all angles: " + str(P)+"kW")
 def opgave5():
     print("Opgave 5: ")
     #SLS top-up mode
@@ -94,11 +95,18 @@ def opgave6():
     K=np.array([0.65,1.6])
     lamb_1=13.056*10*(lamb_u)/E**2*(1+K**2/2)
     lamb_2=1/2*13.056*10*(lamb_u)/E**2*(1+K**2/2)
-    print(str(K**2))
     print('lamb_1: ' +str(lamb_1))
     print('lamb_2: ' + str(lamb_2))
 
-
+#2nd part
+def opgave21():
+    pulsdur=30*1e-15 #s
+    E= 8*1e3*1.602e-19 #J
+    pulsE=5e-3 #J
+    flux=1e14 #ph/s/(0.1% BW)
+    phs=5e8
+    Cheepulsdur=40*1e-12
+    ratio=1000
 
 if __name__=='__main__':
     opgave1()

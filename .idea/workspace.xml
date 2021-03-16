@@ -1,162 +1,314 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e2ab0e8-fa52-42d8-a15e-6879047d2949" name="Default Changelist" comment="">
+    <list default="true" id="1847033a-63fe-4318-81eb-e3a82d24e1e2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/UltraFastScience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/UltraFastScience.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TøUge4.py" beforeDir="false" afterPath="$PROJECT_DIR$/TøUge4.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/UltraFastScience2021$TøUge2.coverage" NAME="TøUge2 Coverage Results" MODIFIED="1613474507852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/UltraFastScience2021$TøUge6.coverage" NAME="TøUge6 Coverage Results" MODIFIED="1615887454704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getGauss.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TøUge2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1122">
+              <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TøUge4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TøUge6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
   </component>
-  <component name="JupyterTrust" id="0e7f01a3-43c6-48e8-b847-49c8b4e7fd3b" />
-  <component name="ProjectId" id="1nz0eMUwP1CHUZDh5SC4IQw0mK9" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/getGauss.py" />
+        <option value="$PROJECT_DIR$/TøUge2.py" />
+        <option value="$PROJECT_DIR$/TøUge4.py" />
+        <option value="$PROJECT_DIR$/TøUge6.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="983" />
+    <option name="height" value="1043" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Skrivebord/dm2021-exercises" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TøUge6.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Week1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TøUge6">
+    <configuration name="TøUge2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="UltraFastScience" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\marti\PycharmProjects\EkspFys2\venv\biblioteker\Fortolker\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TøUge2.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.Week1" />
-      </list>
-    </recent_temporary>
+    <configuration name="TøUge4" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UltraFastScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\marti\PycharmProjects\EkspFys2\venv\biblioteker\Fortolker\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TøUge4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TøUge6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UltraFastScience" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\marti\PycharmProjects\EkspFys2\venv\biblioteker\Fortolker\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TøUge6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.TøUge2" />
+      <item itemvalue="Python.TøUge4" />
+      <item itemvalue="Python.TøUge6" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9e2ab0e8-fa52-42d8-a15e-6879047d2949" name="Default Changelist" comment="" />
-      <created>1612377705989</created>
+      <changelist id="1847033a-63fe-4318-81eb-e3a82d24e1e2" name="Default Changelist" comment="" />
+      <created>1613049980482</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612377705989</updated>
-      <workItem from="1612377707201" duration="5677000" />
-      <workItem from="1612430704711" duration="2649000" />
-      <workItem from="1612434982056" duration="3952000" />
-      <workItem from="1612784433546" duration="595000" />
-      <workItem from="1612864083057" duration="3661000" />
-      <workItem from="1613031639270" duration="597000" />
+      <updated>1613049980482</updated>
+      <workItem from="1613049981917" duration="1633000" />
+      <workItem from="1613461716479" duration="2733000" />
+      <workItem from="1613473931577" duration="4590000" />
+      <workItem from="1613638720080" duration="819000" />
+      <workItem from="1613641527726" duration="3733000" />
+      <workItem from="1614191636961" duration="7111000" />
+      <workItem from="1614245804370" duration="5800000" />
+      <workItem from="1615883023684" duration="9326000" />
     </task>
+    <task id="LOCAL-00001" summary="1 del tø uge 4, måske done">
+      <created>1614249329247</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614249329247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35745000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.12307692" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32792792" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.42806393" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" auto_hide="true" x="437" y="151" width="407" height="378" id="SciView" order="3" show_stripe_button="false" type="FLOATING" weight="0.32955465" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1613032221223">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1613032221223" />
-    <state width="1037" height="684" key="GridCell.Tab.0.bottom" timestamp="1612898524487">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612439468023" />
-    <state width="1037" height="684" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524487" />
-    <state width="1037" height="684" key="GridCell.Tab.0.center" timestamp="1612898524486">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612439468023" />
-    <state width="1037" height="684" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524486" />
-    <state width="1037" height="684" key="GridCell.Tab.0.left" timestamp="1612898524486">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612439468023" />
-    <state width="1037" height="684" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524486" />
-    <state width="1037" height="684" key="GridCell.Tab.0.right" timestamp="1612898524487">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612439468023" />
-    <state width="1037" height="684" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524487" />
-    <state width="1037" height="684" key="GridCell.Tab.1.bottom" timestamp="1612898524490">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612433624571" />
-    <state width="1037" height="684" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524490" />
-    <state width="1037" height="684" key="GridCell.Tab.1.center" timestamp="1612898524489">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612433624570" />
-    <state width="1037" height="684" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524489" />
-    <state width="1037" height="684" key="GridCell.Tab.1.left" timestamp="1612898524489">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612433624570" />
-    <state width="1037" height="684" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524489" />
-    <state width="1037" height="684" key="GridCell.Tab.1.right" timestamp="1612898524489">
-      <screen x="2560" y="0" width="1080" height="1880" />
-    </state>
-    <state width="2517" height="492" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612433624570" />
-    <state width="1037" height="684" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@2560.0.1080.1880" timestamp="1612898524489" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1612864137393">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1920.0.1920.1040/2560.0.1080.1880@0.0.2560.1400" timestamp="1612864137393" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1 del tø uge 4, måske done" />
+    <option name="LAST_COMMIT_MESSAGE" value="1 del tø uge 4, måske done" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Utilities.py</url>
-          <line>27</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Utilities.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/UltraFastScience$Week1.coverage" NAME="Week1 Coverage Results" MODIFIED="1612871632146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../Faststof 2/tøUge3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1428">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getGauss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TøUge2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="22" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TøUge4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/EkspFys2/venv/biblioteker/Fortolker/Lib/site-packages/scipy/integrate/quadpack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="462" selection-start-line="462" selection-end-line="462" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TøUge6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
