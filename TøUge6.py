@@ -34,9 +34,10 @@ def opgaveA1():
     plt.plot(thta/pi,nY21,'k.-',label="$|Y21|^2$")
     plt.plot(thta/pi,nY22,'k*-',label='$|Y22|^2$')
     plt.plot(thta/pi,np.cos(thta)**2*0.1,'k',label="$\cos^2$")
+    plt.legend()
     plt.figure(2)
     plt.plot(thta/pi,1/5*(2*nY21**2+2*nY22**2+nY20**2))
-    plt.legend()
+
     # 2 Allignes in some way, can seen from plot that the norm covers the entire range
     # 3
     mY20=expecCos(Y20)
